@@ -1,5 +1,9 @@
 # language-detector
 
+## Application
+
+App deployed on HuggingFace Spaces: https://huggingface.co/spaces/saadkh225/language_detector
+
 ## Task
 Given an input text, output it's language in Latin script.
 
